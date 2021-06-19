@@ -1,5 +1,7 @@
 # hello-world
 
+Guided git.
+
 Some words about myself.
 
 Hi, I'm Aleksandr and I'm started learning coding, so one of part of coding is github.
